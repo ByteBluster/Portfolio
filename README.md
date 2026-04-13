@@ -165,6 +165,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- **LinkedIn**: [Subham Das](https://www.linkedin.com/in/subham0021)
+- **LinkedIn**: [Subham Das](https://www.linkedin.com/in/xyz)
 - **GitHub**: [@bytebluster](https://github.com/bytebluster)
 
